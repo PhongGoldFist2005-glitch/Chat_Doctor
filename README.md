@@ -21,7 +21,7 @@ Các notebook trong thư mục `Source/` đảm nhiệm nhiều bước khác nh
 
 - Tiền xử lý dữ liệu
 - Sửa và chuẩn hóa label
-- Tạo mask cho dữ liệu huấn luyện
+- Tạo mask QLora
 - Dịch và xử lý dữ liệu mẫu
 - Kiểm thử và suy luận với mô hình đã fine-tune
 
