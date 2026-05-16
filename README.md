@@ -6,6 +6,8 @@ Dự án fine-tuning mô hình ngôn ngữ lớn (LLM) cho lĩnh vực y tế. R
 
 ## Mục lục
 - [Tổng quan](#tổng-quan)
+- [Dataset](#dataset)
+- [Model](#model)
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 - [Notebook chính](#notebook-chính)
@@ -21,9 +23,25 @@ Các notebook trong thư mục `Source/` đảm nhiệm nhiều bước khác nh
 
 - Tiền xử lý dữ liệu
 - Sửa và chuẩn hóa label
-- Tạo mask QLora
+- Tạo mask QLoRA
 - Dịch và xử lý dữ liệu mẫu
 - Kiểm thử và suy luận với mô hình đã fine-tune
+
+---
+
+## Dataset
+
+Dataset được sử dụng trong dự án:
+
+- https://huggingface.co/datasets/PhongGoldFish/refactor3000
+
+---
+
+## Model
+
+Mô hình đã fine-tune:
+
+- https://huggingface.co/PhongGoldFish/aplaca_final_model
 
 ---
 
